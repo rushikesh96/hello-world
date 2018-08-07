@@ -7,6 +7,7 @@
 
 #ifndef CONF_H_
 #define CONF_H_
+//
 
 
 #define byte unsigned char
